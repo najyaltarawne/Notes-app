@@ -1,7 +1,8 @@
 # 📝 Notes App
 
 * Simple idea of Notes App built using **HTML, CSS, and JavaScript** that allows users to create, edit, delete, and store notes directly in the browser.
-Demo: https://najyaltarawne.github.io/Notes-app/
+  
+*Demo: https://najyaltarawne.github.io/Notes-app/
 ---
 
 ## 🚀 Features
