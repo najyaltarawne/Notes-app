@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f7fa;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .input-section {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  textarea {
+    padding: 10px;
+    font-size: 16px;
+    height: 100px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    padding: 10px;
+    border: none;
+    background: #4CAF50;
+    color: white;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: black;
+  }
+  
+ 
+  
+  .note-card {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    position: relative;
+  }
+  
+  .note-text {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .note-date {
+    font-size: 12px;
+    color: gray;
+  }
+  
+  .actions {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .delete-btn {
+    background: #e74c3c;
+  }
+  
+  .delete-btn:hover {
+    background: #c0392b;
+  }
+  
+  .edit-btn {
+    background: #3498db;
+  }
+  
+  .edit-btn:hover {
+    background: #2980b9;
+  }
