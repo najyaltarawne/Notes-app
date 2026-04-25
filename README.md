@@ -46,6 +46,5 @@
 * JavaScript Array Methods (forEach, push, splice)
   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
-* HTML & CSS Basics
-  https://developer.mozilla.org/en-US/docs/Learn
+
 
